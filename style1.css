@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@200..800&display=swap');
+*{
+    color: white;
+    font-family: "Bebas Neue","Manrope" serif;
+
+}
+nav{
+    margin: 24px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 25px 60px;
+}
+body{
+    background-color: #0A0A0A;
+    color: #C7C7C7;
+}
+
+.titlename{
+    font-family: Bebas Neue;
+font-size: 32px;
+color: #C7C7C7;
+}
+
+ul{ 
+display: flex;
+
+}
+ul li{
+    list-style: none;
+    margin-right: 30px;
+}
+ul li a{
+    font-family:Manrope;
+    text-decoration: none;
+    color: #C7C7C7;
+    font-size: 16px;
+}
+.head1{
+    
+    display: flex;
+    align-items: center;
+    margin: 30px 100px 80px;
+    justify-content: space-between;
+}
+h1{
+    font-family: Bebas Neue;
+
+
+}
+.propic{
+    border-radius: 15px;
+}
+.primary{
+    border-radius: 100px;
+    color: black;
+    background-color: #d3e97a;
+    border: none;
+    font-size: 16px;
+    font-family: manrop;
+    font-weight: 700px;
+    padding: 15px;
+}
+.mainhading{
+    font-family: bebas neue;
+    font-size: 101px;
+    /* margin-bottom: -20px; */
+    margin-bottom: 0px;
+    color: white;
+}
+.discription{
+    color: #C7C7C7;
+    font-size: 18px;
+    margin-top: 0PX;
+    /* font-family: manrope; */
+}
+.iconsoratehobe{
+    margin-left: 15px;
+    color:#0A0A0A;
+}
+.iconoflink{
+    padding: 15px;
+    background-color:#222222 ;
+    border-radius: 100px;
+    color: #d3e97a;
+    text-align: center;
+    margin-left: 15px;
+}
+.borohou{
+    height: 25px;
+    width: 25px;
+    color: #d3e97a;
+}
+hr{
+    color: #484848;
+
+}
+.project{
+    
+}
+.proWork{
+    display: flex;
+    margin-top: 80px;
+}
+main{
+    margin: 0px 100px;
+    color: white;
+}
+.features{
+    font-size: 76px;
+    font-weight: 400;
+    color: rgba(255, 255, 155, 1);
+    font-family: "Bebas neue";
+    margin-bottom: 0px;
+}
+.feturePic{
+    padding: 125px 57px;
+
+}
+.uthena{
+    padding-top: 26px;
+    padding-left: 16px;
+    margin: 0PX;
+}
+.uthena span{
+    background-color: #0A0A0A;
+    padding: 8px 16px;
+    border-radius: 25px;
+}
+.proyojon{
+    background-color: #1A1A1A;
+    border-radius: 12px;
+    margin-right: 50px;
+}
+.protext{
+    padding: 60px 0px;
+}
+.portfolioText{
+    font-size: 32px;
+    font-weight: 500;
+}
+.porInfo{
+    font-size: 16px;
+    font-weight: 600px;
+    margin-bottom: 16px;
+    
+}
+.dureSoreJau{
+    display: flex;
+    justify-content: space-between;
+}
+.AktaAnkor{
+    color: #d3e97a;
+    margin-right: 24px;
+}
